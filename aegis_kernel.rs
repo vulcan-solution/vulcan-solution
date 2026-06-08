@@ -1,3 +1,11 @@
+/*
+ * Aegis Engine | Decentralized Physical Infrastructure Kernel
+ * Version: 0.1.0-alpha
+ * Status: Under Active Development (Internal Proprietary)
+ * Description: High-performance ZK-SNARK constraint system 
+ * optimized for recursive verification and DePIN scaling.
+ */
+
 // Aegis Engine: Advanced Recursive ZK-Circuit Kernel
 // [PROPRIETARY ASSET - DO NOT DISTRIBUTE]
 
