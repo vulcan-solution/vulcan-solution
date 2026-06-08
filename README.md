@@ -26,3 +26,22 @@ Aegis operates as a middleware layer, connecting high-performance compute nodes 
 
 ---
 *Powered by Vulcan Solution. Building the future of decentralized infrastructure.*
+
+
+# Aegis Engine: The Verifiable OS for DePIN
+
+Aegis Engine is a high-performance ZK-SNARK infrastructure built for decentralized physical networks. 
+We leverage recursive ZK-proof aggregation to ensure $O(1)$ verification costs, 
+enabling trustless data integrity across millions of edge devices.
+
+## Core Features
+- **Recursive ZK-Kernel:** Advanced non-linear constraint system.
+- **Lookup-Table Optimized:** High-throughput verification for complex data integrity.
+- **DePIN Native:** Designed for low-latency, high-scale decentralized compute.
+
+## Tech Stack
+- **Language:** Rust
+- **Proof System:** Halo2 (ZK-SNARKs)
+- **Constraint System:** Custom Polynomial Gates & Lookup Tables
+
+*Copyright (c) 2026 Aegis Labs. All rights reserved.*
